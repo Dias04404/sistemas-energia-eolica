@@ -14,3 +14,10 @@ Atividade 02:
 Utilizando a Distribuição de Weibull comparar com resultados da primeira atividade
 - Tarefa 05;
 - Tarefa 06;
+
+Atividade 03:
+Estimar os parâmetros de escala e forma e plotar a curva de potência para cada parâmetro
+- Tarefa 07;
+- Tarefa 08;
+- Tarefa 09;
+- Tarefa 10;
